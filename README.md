@@ -19,4 +19,5 @@ The system is built as a Full-Stack application featuring a responsive User Inte
 * **Database:** MongoDB
 
 ## Links:
-Jira: https://meetdrop.atlassian.net/
+[Jira](https://meetdrop.atlassian.net/)
+[App](https://github.com/Yahav78/MeetDrop_)
