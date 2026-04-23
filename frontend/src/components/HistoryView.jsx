@@ -7,7 +7,11 @@ export default function HistoryView({ user, onUpdate }) {
   const [loading, setLoading] = useState(true);
   const [selectedUser, setSelectedUser] = useState(null);
   const navigate = useNavigate();
-
+  /**
+   * Fetches the connection history for the current user from the backend API.
+   * Sorts the retrieved connections so that users marked as "favorites" appear at the top.
+   * Handles state updates for loading and rendering the history list.
+   */
   useEffect(() => {
     if (!user) return;
     const fetchHistory = async () => {
