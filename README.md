@@ -64,7 +64,7 @@ npm run dev
 Links
 Project Management: https://meetdrop.atlassian.net/jira/software/projects/MD/boards/1
 
-Live Application: meetdrop-app-pearl.vercel.app
+Live Application: [meetdrop-app-pearl.vercel.app](https://meetdrop-app-pearl.vercel.app/)
 
 <img width="1600" height="416" alt="WhatsApp Image 2026-04-24 at 14 45 47" src="https://github.com/user-attachments/assets/fbe5f0b6-c240-47ff-a44a-2bb3a9afd606" />
 
