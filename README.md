@@ -48,7 +48,7 @@ To run this project locally, add the following variables to your `.env` files.
 ### ⚙️ Backend (`/api/.env`)
 - `MONGO_URI` – Your MongoDB connection string 🍃  
 - `JWT_SECRET` – Secret key for signing JWT tokens 🔐  
-- `PORT` – Server port (e.g. `5000`) 🌐  
+- `PORT` – Server port (e.g. `5173`) 🌐  
 
 ### 🎨 Frontend (`/frontend/.env`)
 - `VITE_API_URL` – Backend server URL (e.g. `http://localhost:5000`) 🔗  
@@ -71,17 +71,15 @@ cd MeetDrop_
 ### 3️⃣ Backend Setup
 ```bash
 cd api
-npm install
-npm run dev
+node server.js
 ```
-⚠️ Ensure your .env file is configured first.
+
 ### 4️⃣ Frontend Setup
 ```bash
 cd frontend
 npm install
 npm run dev
 ```
-⚠️ Ensure your .env file is configured first.
 
 ## 🔗 Links
 ### 📊 Project Management:
