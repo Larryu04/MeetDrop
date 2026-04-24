@@ -52,7 +52,7 @@ To run this project locally, add the following variables to your `.env` files.
 
 ### 🎨 Frontend (`/frontend/.env`)
 - `VITE_API_URL` – Backend server URL (e.g. `http://localhost:5000`) 🔗  
-
+<img width="1600" height="416" alt="image" src="https://github.com/user-attachments/assets/97ff482f-db4b-42f2-92d4-80d960317809" />
 ---
 
 ## 📥 Installation Guide
@@ -90,6 +90,7 @@ https://meetdrop.atlassian.net/jira/software/projects/MD/boards/1
 https://meetdrop-app-pearl.vercel.app/
 
 ## 📸 Preview
-<img width="1600" height="416" alt="image" src="https://github.com/user-attachments/assets/97ff482f-db4b-42f2-92d4-80d960317809" />
+<img width="1029" height="499" alt="image" src="https://github.com/user-attachments/assets/5b49933c-9b52-4a77-b4f1-8db1104a6e10" />
+
 
 גככג
