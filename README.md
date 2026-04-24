@@ -48,17 +48,19 @@ Ensure you have [Node.js](https://nodejs.org/) installed and access to a MongoDB
 ### 2. Clone the Repository
 git clone [https://github.com/MeetDrop/MeetDrop_.git](https://github.com/MeetDrop/MeetDrop_.git)
 cd MeetDrop_
-3. Backend Setup
+
+### 3. Backend Setup
 Navigate to the API directory, install dependencies, and start the server:
 cd api
 npm install
-### Ensure your .env file is set up here
+#### Ensure your .env file is set up here
 npm run dev
-4. Frontend Setup
+
+### 4. Frontend Setup
 Open a new terminal, navigate to the frontend directory, install dependencies, and start the Vite development server:
 cd frontend
 npm install
-### Ensure your .env file is set up here
+#### Ensure your .env file is set up here
 npm run dev
 
 Links
