@@ -83,13 +83,13 @@ npm run dev
 ```
 ⚠️ Ensure your .env file is configured first.
 
-🔗 Links
-📊 Project Management:
+##🔗 Links
+### 📊 Project Management:
 https://meetdrop.atlassian.net/jira/software/projects/MD/boards/1
-🌍 Live Application:
+### 🌍 Live Application:
 https://meetdrop-app-pearl.vercel.app/
 
-📸 Preview
+## 📸 Preview
 <img width="1600" height="416" alt="image" src="https://github.com/user-attachments/assets/97ff482f-db4b-42f2-92d4-80d960317809" />
 
 גככג
