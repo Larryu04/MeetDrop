@@ -52,13 +52,13 @@ cd MeetDrop_
 Navigate to the API directory, install dependencies, and start the server:
 cd api
 npm install
-# Ensure your .env file is set up here
+### Ensure your .env file is set up here
 npm run dev
 4. Frontend Setup
 Open a new terminal, navigate to the frontend directory, install dependencies, and start the Vite development server:
 cd frontend
 npm install
-# Ensure your .env file is set up here
+### Ensure your .env file is set up here
 npm run dev
 
 Links
