@@ -4,7 +4,7 @@
 ## 🔗 Links
 ### 📊 Project Management: https://meetdrop.atlassian.net/jira/software/projects/MD/boards/1
 ### 🌍 Live Application: https://meetdrop-app-pearl.vercel.app/
-
+---
 ## 🌟 About The Project
 **MeetDrop** is a modern web application designed to revolutionize professional networking. 🤝💼
 
@@ -35,7 +35,7 @@ MeetDrop provides a centralized and seamless platform where users can create the
 ### 🗄️ Database & Deployment
 - 🍃 MongoDB & Mongoose *(Object Data Modeling)*  
 - ▲ Vercel *(CI/CD Automated Deployment)*  
----
+
 The system is built as a **Full-Stack application** featuring:
 - 🎨 Responsive User Interface (UI)
 - ⚙️ Robust Backend Server
