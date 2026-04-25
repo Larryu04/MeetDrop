@@ -72,6 +72,7 @@ cd MeetDrop_
 ### 3️⃣ Backend Setup
 ```bash
 cd api
+npm install
 node server.js
 ```
 
@@ -82,7 +83,28 @@ npm install
 npm run dev
 ```
 
+## 📖 How to Use (End-User Guide)
+Welcome to MeetDrop! Here is how to navigate the "Golden Path" of our application:
 
+1. **Register / Login:** Create a secure account or log in using your credentials.
+2. **Digital Card:** View and manage your personal digital networking card.
+3. **Matchmaker Radar:** Head over to the Radar to find active professionals around you.
+4. **Exchange Cards:** Send a connection request to exchange digital cards securely.
+5. **History & Favorites:** Access your History view to manage past connections, save favorites, or hide specific interactions.
+
+---
+
+## 🧪 Running Tests (For QA & Developers)
+We built an automated E2E testing suite to ensure API stability. To run the tests locally:
+
+1. Ensure the Backend server is running (`node api/server.js`).
+2. Open a new terminal and navigate to the `backend` folder.
+3. Run the auth and user integration tests:
+```bash
+cd backend
+node test_auth.js
+node test_users.js
+```
 
 
 
